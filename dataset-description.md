@@ -1,0 +1,1 @@
+This data is maintained by the Federal Reserve Board, and includes Quarterly values for the Household Debt Service Ratio and Financial Obligations Ratio from the 1980 and onward.
