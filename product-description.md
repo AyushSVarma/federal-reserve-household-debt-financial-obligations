@@ -24,7 +24,7 @@ To learn about dataset, please visit the associated [About the Release](https://
 
 ## More Information
 - Source: [The Federal Reserve Board | Household Debt Service and Financial Obligations Ratios](https://www.federalreserve.gov/releases/housedebt/default.htm)      
-- [the Federal Reserve Board | Homepage](https://www.federalreserve.gov)    
+- [The Federal Reserve Board | Homepage](https://www.federalreserve.gov)    
 - [Fair Use Information](https://www.usa.gov/government-works)  
 - Frequency: Quarterly
 - Format: CSV, XLS, XML
