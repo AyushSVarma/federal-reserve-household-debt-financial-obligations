@@ -4,7 +4,7 @@
 
 # Federal Reserve | Household Debt Service & Financial Obligations Ratios
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-6h3esfxmd7b3o](https://aws.amazon.com/marketplace/pp/prodview-6h3esfxmd7b3o). 
 
 ## Main Overview
 
