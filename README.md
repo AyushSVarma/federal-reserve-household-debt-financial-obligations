@@ -7,13 +7,15 @@
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-6h3esfxmd7b3o](https://aws.amazon.com/marketplace/pp/prodview-6h3esfxmd7b3o). 
 
 ## Main Overview
-
 The household Debt Service Ratio (DSR) is the ratio of total required household debt payments to total disposable income.
 
 The DSR is divided into two parts. The Mortgage DSR is total quarterly required mortgage payments divided by total quarterly disposable personal income. The Consumer DSR is total quarterly scheduled consumer debt payments divided by total quarterly disposable personal income. The Mortgage DSR and the Consumer DSR sum to the DSR.
 
-#### Data Source
+Quarterly values for the Debt Service Ratio are available from 1980 forward.
 
+The Financial Obligations Ratio is a broader measure than the Debt Service Ratio. It includes rent payments on tenant-occupied property, auto lease payments, homeowners' insurance, and property tax payments. These statistics are obtained from the [National Income and Product Accounts](http://www.bea.gov/iTable/index_nipa.cfm).
+
+#### Data Source
 The dataset included with this resource is presented in CSV, XLS and XML formats. The data files include the following data fields:
 
 - `Series Description` (Time Period, e.g. "2017Q2")
