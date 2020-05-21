@@ -24,7 +24,7 @@ The dataset included with this resource is presented in CSV, XLS and XML formats
 - `Consumer debt service ratio, seasonally adjusted` (Percent)
 - `Financial obligations ratio, seasonally adjusted` (Percent)
 
-To learn about dataset, please visit the associated [About the Release](https://www.federalreserve.gov/releases/housedebt/about.htm) webpage on the Federal Reserve Board's website.
+To learn more about the data in this dataset, please visit the associated [About the Release](https://www.federalreserve.gov/releases/housedebt/about.htm) webpage on the Federal Reserve Board's website.
 
 ## More Information
 - Source: [The Federal Reserve Board | Household Debt Service and Financial Obligations Ratios](https://www.federalreserve.gov/releases/housedebt/default.htm)      
